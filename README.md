@@ -1,3 +1,3 @@
 # AlgoCasts
 
-Companion repo to a course on Udemy.com
+Repo to hold practice challenges for algorithms and data structures!
